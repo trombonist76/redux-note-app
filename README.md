@@ -1,4 +1,8 @@
 # Basic Note App with Redux State Management
+
+## Demo
+[Netlify](https://writenoteapp.netlify.app)
+
 ## Available Scripts
 
 In the project directory, you can run:
